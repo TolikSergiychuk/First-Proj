@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "html.format.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 200,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 160,
+  "diffEditor.wordWrap": "off"
+}
